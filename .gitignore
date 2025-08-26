@@ -1,0 +1,39 @@
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+xcuserdata/
+DerivedData/
+*.xcarchive
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# iOS/macOS
+.DS_Store
+*.dSYM
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+*.o
+*.a
+*.dylib
+
+# Temporary files
+*.tmp
+tmp/
+
+# Logs
+*.log
+
+# Supabase configuration (keep template, ignore real config)
+supabase-config.json
+.env
+.env.local
