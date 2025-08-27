@@ -1,0 +1,19 @@
+# Build directories
+.build/
+.swiftpm/
+
+# Xcode
+xcuserdata/
+*.xcworkspace
+!Package.resolved
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
