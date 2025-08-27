@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/IssueReportingPackageSupport.build/master.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/xctest-dynamic-overlay/Sources/IssueReportingPackageSupport/_Test.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/IssueReportingPackageSupport.build/_Test.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/IssueReportingPackageSupport.build/_Test.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/IssueReportingPackageSupport.build/_Test~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/IssueReportingPackageSupport.build/_Test.swiftdeps"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/master.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/swift-clocks/Sources/Clocks/AnyClock.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/AnyClock.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/AnyClock.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/AnyClock~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/AnyClock.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/swift-clocks/Sources/Clocks/ImmediateClock.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/ImmediateClock.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/ImmediateClock.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/ImmediateClock~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/ImmediateClock.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/swift-clocks/Sources/Clocks/Internal/Lock.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/Lock.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/Lock.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/Lock~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/Lock.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/swift-clocks/Sources/Clocks/Internal/_AsyncTimerSequence.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/_AsyncTimerSequence.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/_AsyncTimerSequence.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/_AsyncTimerSequence~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/_AsyncTimerSequence.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/swift-clocks/Sources/Clocks/SwiftUI.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/SwiftUI.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/SwiftUI.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/SwiftUI~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/SwiftUI.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/swift-clocks/Sources/Clocks/TestClock.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/TestClock.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/TestClock.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/TestClock~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/TestClock.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/swift-clocks/Sources/Clocks/Timer.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/Timer.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/Timer.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/Timer~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/Timer.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/swift-clocks/Sources/Clocks/UnimplementedClock.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/UnimplementedClock.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/UnimplementedClock.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/UnimplementedClock~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Clocks.build/UnimplementedClock.swiftdeps"
+  }
+}

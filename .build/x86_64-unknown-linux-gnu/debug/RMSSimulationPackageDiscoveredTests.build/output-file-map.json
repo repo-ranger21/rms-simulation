@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/RMSSimulationPackageDiscoveredTests.build/master.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/RMSSimulationPackageDiscoveredTests.derived/RMSSimulationTests.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/RMSSimulationPackageDiscoveredTests.build/RMSSimulationTests.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/RMSSimulationPackageDiscoveredTests.build/RMSSimulationTests.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/RMSSimulationPackageDiscoveredTests.build/RMSSimulationTests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/RMSSimulationPackageDiscoveredTests.build/RMSSimulationTests.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/RMSSimulationPackageDiscoveredTests.derived/all-discovered-tests.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/RMSSimulationPackageDiscoveredTests.build/all-discovered-tests.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/RMSSimulationPackageDiscoveredTests.build/all-discovered-tests.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/RMSSimulationPackageDiscoveredTests.build/all-discovered-tests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/RMSSimulationPackageDiscoveredTests.build/all-discovered-tests.swiftdeps"
+  }
+}

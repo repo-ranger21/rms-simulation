@@ -1,0 +1,155 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/master.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/AuthAdmin.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthAdmin.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthAdmin.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthAdmin~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthAdmin.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/AuthClient.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthClient.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthClient.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthClient~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthClient.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/AuthClientConfiguration.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthClientConfiguration.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthClientConfiguration.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthClientConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthClientConfiguration.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/AuthError.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthError.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthError.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthError~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthError.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/AuthMFA.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthMFA.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthMFA.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthMFA~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthMFA.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/AuthStateChangeListener.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthStateChangeListener.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthStateChangeListener.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthStateChangeListener~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthStateChangeListener.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Defaults.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Defaults.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Defaults.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Defaults~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Defaults.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Deprecated.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Deprecated.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Deprecated.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Deprecated.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Exports.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Exports.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Exports.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Exports.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/APIClient.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/APIClient.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/APIClient.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/APIClient~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/APIClient.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/CodeVerifierStorage.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/CodeVerifierStorage.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/CodeVerifierStorage.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/CodeVerifierStorage~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/CodeVerifierStorage.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/Constants.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Constants.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Constants.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Constants~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Constants.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/Dependencies.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Dependencies.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Dependencies.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Dependencies~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Dependencies.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/EventEmitter.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/EventEmitter.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/EventEmitter.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/EventEmitter~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/EventEmitter.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/FixedWidthInteger+Random.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/FixedWidthInteger+Random.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/FixedWidthInteger+Random.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/FixedWidthInteger+Random~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/FixedWidthInteger+Random.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/Helpers.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Helpers.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Helpers.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Helpers~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Helpers.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/Keychain.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Keychain.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Keychain.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Keychain~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Keychain.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/PKCE.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/PKCE.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/PKCE.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/PKCE~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/PKCE.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/SessionManager.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/SessionManager.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/SessionManager.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/SessionManager~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/SessionManager.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/SessionStorage.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/SessionStorage.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/SessionStorage.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/SessionStorage~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/SessionStorage.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Internal/URLOpener.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/URLOpener.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/URLOpener.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/URLOpener~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/URLOpener.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Storage/AuthLocalStorage.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthLocalStorage.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthLocalStorage.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthLocalStorage~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/AuthLocalStorage.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Storage/KeychainLocalStorage.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/KeychainLocalStorage.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/KeychainLocalStorage.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/KeychainLocalStorage~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/KeychainLocalStorage.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Storage/WinCredLocalStorage.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/WinCredLocalStorage.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/WinCredLocalStorage.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/WinCredLocalStorage~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/WinCredLocalStorage.swiftdeps"
+  },
+  "/home/runner/work/rms-simulation/rms-simulation/.build/checkouts/supabase-swift/Sources/Auth/Types.swift": {
+    "dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Types.d",
+    "object": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Types.swift.o",
+    "swiftmodule": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Types~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/rms-simulation/rms-simulation/.build/x86_64-unknown-linux-gnu/debug/Auth.build/Types.swiftdeps"
+  }
+}
